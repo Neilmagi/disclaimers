@@ -56,15 +56,10 @@ Data sources should be acknowledged by a citation. Detailed information and exam
 Standard citation 
 ”ICES fisheriesXplorer. Copenhagen, Denmark. ICES. [accessed date]. https://ices-taf.shinyapps.io/fisheriesXplorer/” 
  
-Extended citation 
-?
-”ICES fisheriesXplorer. Copenhagen, Denmark. ICES. [accessed date]. https://ices-taf.shinyapps.io/fisheriesXplorer/?assessmentkey=[assessmentKey of the stock]” 
-??A Data Citation may also include a URL to the database. Please see the ICES data policy for full details of citation. 
- 
- 
 7. METADATA 
 Further details about the dataset and related services can be found at the metadata catalogue. 
 
 fisheriesXplorer: https://gis.ices.dk/geonetwork/srv/eng/catalog.search#/metadata/f51bc2ed-d1ee-42ac-bbc4-d2f3a2f0d7d1
 ICES Datasets: https://gis.ices.dk/geonetwork/srv/eng/catalog.search#/search?facet.q=type%2Fdataset%26orgName%2FICES 
 Services: https://gis.ices.dk/geonetwork/srv/eng/catalog.search#/search?facet.q=type%2Fservice 
+
